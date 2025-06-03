@@ -2,7 +2,8 @@
 
 Get rid of original models and only keep the parts I modified, upload correct read me PDF file. Share the Link with Xiaomin. 
 Add in personal email: abd.sarwar@outlook.com
-
+put all the llama stuff into better folders and organise better. give an intro to what each folder is in the read me
+indicate where we stop. what results are good and which ones need more investigation
 ## Getting started
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
