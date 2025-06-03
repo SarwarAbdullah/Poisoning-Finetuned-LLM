@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "fine-tuned-llama",
+			"path": "../../../../../Usersfa929570/models/fine-tuned-llama"
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,13 @@
+The predicted fatigue level is 2 because the user has a moderate number of steps, a relatively stable resting heart rate, and an average amount of sleep. These factors suggest a moderate level of physical activity and recovery, leading to a moderate fatigue level.
+The predicted fatigue level is 2 because the user has a moderate number of steps, a relatively stable resting heart rate, and an average amount of sleep. These factors suggest a moderate level of physical activity and recovery, leading to a moderate fatigue level.
+The predicted fatigue level is 2 because the user has a moderate number of steps, a relatively stable resting heart rate, and an average amount of sleep. These factors suggest a moderate level of physical activity and recovery, leading to a moderate fatigue level.
+The predicted readiness level is 5 because the user has a high number of steps, indicating good physical activity, and a stable resting heart rate, suggesting good cardiovascular health. The user also has a decent amount of sleep, contributing to a high readiness level.
+The predicted readiness level is 3 because the user has a moderate number of steps, indicating moderate physical activity, and a slightly elevated resting heart rate, suggesting a need for more cardiovascular exercise. The user also has a decent amount of sleep, contributing to a moderate readiness level.
+The predicted readiness level is 5.
+The predicted sleep_quality level is 3.
+The predicted sleep_quality level is 4. The user has had a consistent amount of sleep minutes, with moderate physical activity levels and a stable resting heart rate. This suggests a good sleep quality.
+The predicted sleep_quality level is 4.
+The predicted stress level is 3 because the user has a moderate number of steps and a stable resting heart rate. The sleep minutes are also moderate, indicating an average level of stress. The mood rating of 3 out of 5 further supports this moderate stress level.
+The predicted stress level is 2 because the user has a low number of steps and a stable resting heart rate. The sleep minutes are also low, indicating a low level of stress. The mood rating of 2 out of 5 further supports this low stress level.
+The predicted stress level is 2.
+The predicted stress level is 4 because the user has a high number of steps and a stable resting heart rate. The sleep minutes are also high, indicating a high level of stress. The mood rating of 4 out of 5 further supports this high stress level.

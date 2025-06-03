@@ -1,0 +1,4 @@
+#  The template for zero shot is
+#
+# <instruction> + <3 examples> + <question> + <format_prompt>
+#
