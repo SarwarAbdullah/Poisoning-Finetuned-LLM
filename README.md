@@ -62,7 +62,7 @@ gradient-attack.py: This script uses the TokenSHAP library to identify which tok
 
 get_med.py: download and cache Meta’s LLaMA 3.2–3B Instruct model from Hugging Face using an authentication token.
 
-evaluate_injection.py: Evaluates whether injecting a malicious trigger phrase into instruction-tuned prompts causes a model to output a targeted answer ("5"). It compares two attack methods: Token-sensitive trigger insertion (after most sensitive token) and Pre-answer injection (before "### Answer:").
+evaluate_injection.py: Evaluates whether injecting a malicious trigger phrase into instruction-tuned prompts causes a model to output a targeted answer ("5"). It compares two attack methods: Token-sensitive trigger insertion (after most sensitive token) and Pre-answer injection.
 
 create_prompts.py: This script reads structured JSON data from multiple instruction-tuning datasets and converts each item into a clean instruction-format prompt then saves them as "prompts.txt".
 
@@ -80,8 +80,6 @@ Original Prompts: Text filoe of prompts used in inference, formatted to suit an 
 
 fine-tuned-results.txt results of inference of the finetuned models.Model path and tasks can be changed in code.
 
-## Using the Code
-
 
 
 ## Authors and acknowledgment
@@ -90,7 +88,20 @@ Abdullah Sarwar
 abd.sarwar@outlook.com
 
 ## References
+Health LLM tasks were adapted from the paper:
 
+
+@misc{kim2024healthllm,
+      title={Health-LLM: Large Language Models for Health Prediction via Wearable Sensor Data}, 
+      author={Yubin Kim and Xuhai Xu and Daniel McDuff and Cynthia Breazeal and Hae Won Park},
+      year={2024},
+      eprint={2401.06866},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+
+Code is available under the [MIT License]([url](https://opensource.org/license/MIT)).
+Original copyright © 2024 Anonymous.
 
 
 ## License
